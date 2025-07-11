@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Satya Krishna Gatti</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
+![Header](./github-banner.png)
+
 
 - 👨‍💻 All of my projects are available at [https://satya-portfolio-ashen.vercel.app/](https://satya-portfolio-ashen.vercel.app/)
 
