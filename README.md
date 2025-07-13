@@ -1,11 +1,32 @@
 ![Header](./github-banner.png)
 
+## 👋 About Me
 
-- 👨‍💻 All of my projects are available at [https://satya-portfolio-ashen.vercel.app/](https://satya-portfolio-ashen.vercel.app/)
+Hello! I'm **Satya**, a passionate **Full Stack Developer** and **AI Enthusiast** who loves turning complex problems into elegant digital solutions.
 
-- 💬 Ask me about **MERN Stack**
+🔭 I’m currently working on:
+- 🌿 **Plant Disease Detection** using deep learning + full-stack deployment
+- 💬 **Chat with GitHub Repo** using RAG (Retrieval-Augmented Generation) and vector databases
+- 🏘️ **StayFinder** – a role-based rental property app with secure JWT authentication
 
-- 📫 How to reach me **satyakrishna883@gmail.com**
+🧠 I love exploring:
+- 🧠 Generative AI (LangChain, embeddings, RAG pipelines)
+- ⚙️ Backend engineering (Node.js, Express, Flask, SQLite)
+- 🌐 Frontend frameworks (React, Tailwind, SCSS)
+- 🧪 Clean, tested code with real-world use cases
+
+---
+
+## 📫 Let's Connect
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/YOUR_USERNAME)
+- 🧠 [Portfolio/Blog](https://your-portfolio.com)
+- 💬 Feel free to [reach out](mailto:your.email@example.com) — let's build something awesome together!
+
+---
+
+⭐️ *"Code is like humor. When you have to explain it, it’s bad."* — Cory House
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
